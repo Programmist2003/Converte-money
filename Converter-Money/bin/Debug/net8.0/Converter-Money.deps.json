@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Converter-Money/1.0.0": {
+        "runtime": {
+          "Converter-Money.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Converter-Money/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

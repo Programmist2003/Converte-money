@@ -1,0 +1,14 @@
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\bin\Debug\net8.0\Converter-Money.exe
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\bin\Debug\net8.0\Converter-Money.deps.json
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\bin\Debug\net8.0\Converter-Money.runtimeconfig.json
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\bin\Debug\net8.0\Converter-Money.dll
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\bin\Debug\net8.0\Converter-Money.pdb
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\obj\Debug\net8.0\Converter-Money.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\obj\Debug\net8.0\Converter-Money.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\obj\Debug\net8.0\Converter-Money.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\obj\Debug\net8.0\Converter-Money.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\obj\Debug\net8.0\Converter-Money.dll
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\obj\Debug\net8.0\refint\Converter-Money.dll
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\obj\Debug\net8.0\Converter-Money.pdb
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\obj\Debug\net8.0\Converter-Money.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Рабочий стол\Converter money\Converter-Money\obj\Debug\net8.0\ref\Converter-Money.dll
